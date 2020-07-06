@@ -51,7 +51,7 @@ To run:
 
 `$ bash charge_reminder.sh > output.txt`
 
-in a shell window or Wincows CMD window, or create cron or Task Manager entry.
+in a shell window or Windows CMD window, or create cron or Task Manager entry.
 
 ### Issues
 Key issues are a need for vehicle wakeup and email SMTP server requirements. These have been incorporated into the script but could change. An intermittent ongoing Tesla software bug can cause the vehicle not to wake up. 
